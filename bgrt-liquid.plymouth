@@ -29,10 +29,12 @@ UseEndAnimation=false
 UseFirmwareBackground=true
 
 [shutdown]
+Title=Shutting down...
 UseEndAnimation=false
 UseFirmwareBackground=true
 
 [reboot]
+Title=Rebooting...
 UseEndAnimation=false
 UseFirmwareBackground=true
 
